@@ -1,7 +1,6 @@
 import model.dfs as dfs
 import model.a_star as a_star
 
-
 # This method runs the DFS algorithm once
 def run_dfs():
     print("<-- DFS - >")
